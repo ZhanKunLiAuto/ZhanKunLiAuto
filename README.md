@@ -39,11 +39,6 @@
 
 ## 📚 学术成果 | Academic Achievements
 
-### 引用统计 | Citations
-- 总引用: 465
-- h-index: 9
-- i10-index: 8
-
 ### 代表性论文 | Selected Publications
 
 1. **Drivevlm: The convergence of autonomous driving and large vision-language models** (2024)  
