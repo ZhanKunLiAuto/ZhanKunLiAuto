@@ -71,9 +71,9 @@
 
 ## 📊 学术影响力 | Academic Impact
 
-![Citation Metrics](https://img.shields.io/badge/Citations-286+-blue)
-![h-index](https://img.shields.io/badge/h--index-7-green)
-![i10-index](https://img.shields.io/badge/i10--index-6-orange)
+![Citation Metrics](https://img.shields.io/badge/Citations-465-blue)
+![h-index](https://img.shields.io/badge/h--index-9-green)
+![i10-index](https://img.shields.io/badge/i10--index-8-orange)
 
 ## 📫 联系方式 | Contact
 
