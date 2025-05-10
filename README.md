@@ -4,7 +4,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zk_1028@aliyun.com)
-[![Phone](https://img.shields.io/badge/Phone-15210600944-25D366?style=flat&logo=whatsapp&logoColor=white)]()
+[![Contact](https://img.shields.io/badge/Contact-Available%20on%20Request-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:zk_1028@aliyun.com)
 
 ## 🔭 关于我 | About Me
 
@@ -40,9 +40,9 @@
 ## 📚 学术成果 | Academic Achievements
 
 ### 引用统计 | Citations
-- 总引用: 286+
-- h-index: 7
-- i10-index: 6
+- 总引用: 465
+- h-index: 9
+- i10-index: 8
 
 ### 代表性论文 | Selected Publications
 
@@ -78,4 +78,4 @@
 ## 📫 联系方式 | Contact
 
 - 📧 Email: zk_1028@aliyun.com
-- 📱 Phone: 15210600944
+- 📱 WeChat: KevinZhan1990
