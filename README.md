@@ -1,76 +1,89 @@
-# 詹锟 (Kun Zhan) 👋
+# 詹锟 | Kun Zhan
 
-## 🚀 自动驾驶算法专家 | AI Researcher
+**Head of Foundation Model Team at Li Auto**  
+**Foundation Models for Physical Intelligence**
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-zk__1028%40aliyun.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zk_1028@aliyun.com)
-[![Contact](https://img.shields.io/badge/Contact-Available%20on%20Request-25D366?style=flat&logo=whatsapp&logoColor=white)](mailto:zk_1028@aliyun.com)
+[Homepage](https://zhankunliauto.github.io) · [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) · [Email](mailto:zk_1028@aliyun.com) · WeChat: `KevinZhan1990` · Beijing, China
 
-## 🔭 关于我 | About Me
+## About Me
 
-你好，我是詹锟（Kun Zhan）。目前在理想汽车担任认知智能负责人，带领团队专注于认知模型、世界模型和强化学习等方向的研发与落地。
+I lead Li Auto's MindVLA and MindGPT teams, covering behavior intelligence, cognitive intelligence, and production deployment across autonomous driving, smart cabin, and future embodied systems.
 
-我的研究"野心"很大：自动驾驶、计算机视觉、3D视觉、大语言模型、具身智能… 基本上只要能让车子"更聪明"的技术，我都想研究个遍！特别痴迷于把最前沿的AI技术实实在在地装进机器人/车里，让科幻电影里的场景变成现实，实现无人化的未来。
+My work focuses on building foundation models that connect perception, reasoning, planning, and action, then shipping them with automotive-grade reliability. In parallel, I also serve as Site Manager for Li Auto's Silicon Valley R&D center, bridging research exploration in the U.S. with large-scale execution in Beijing.
 
-对我而言，技术创新不仅是理论突破，更应该是能够切实改变人们出行方式的实践。希望能通过不断探索，为自动驾驶技术的发展贡献自己的力量。
+My long-term goal is to use autonomous driving as the practical starting point for embodied intelligence, and expand from vehicles toward robotics and broader real-world AI systems.
 
-## 🌟 研究领域 | Research Interests
+## Key Highlights
 
-- 自动驾驶 (Autonomous Driving)
-- 计算机视觉 (Computer Vision)
-- 3D视觉 (3D Vision)
-- 大模型应用 (Large Language Models)
-- 世界模型 (World Models)
+- Lead Li Auto's foundation model organization across VLA, VLM, LLM, and world models.
+- Delivered multiple mass-production milestones, including Highway NoA (2022), City NoA (2023), End-to-End + VLM dual-system (2024), and the new VLA stack (2025).
+- Built Li Auto's U.S. research hub and aligned Silicon Valley exploration with Beijing headquarters execution.
 
-## 💼 工作经历 | Work Experience
+## Research Interests
 
-### 理想汽车 (Li Auto) | 2021.4 - 至今
+- Autonomous Driving VLA models, end-to-end driving, planning, and decision making
+- Computer Vision, tracking, scene understanding, and BEV perception
+- 3D Vision and World Models for dynamic reconstruction, simulation, and RL
+- Multimodal LLMs for reasoning, planning, and driver-vehicle interaction
+- Agent Models with tool use, safety, and reliability
+- Robotics and embodied AI for real-world manipulation and navigation
 
-### 百度 (Baidu) | 2016.4 - 2021.3
+## Work Experience
 
-## 🎓 教育背景 | Education
+### Li Auto
+**Apr 2021 - Present**  
+**Beijing / San Jose**
 
-- **北京航空航天大学** | 2013.9 - 2016.4  
-  硕士研究生，导航制导与控制专业  
-  研究方向：目标识别和目标跟踪
+**Head of Foundation Model Team**
+- Lead VLA foundation-model R&D and coordinate integration with Li Auto's self-developed autonomous-driving chips.
+- Built Li Auto's autonomous-driving stack from E2E to VLM to VLA architectures running on hundreds of thousands of vehicles.
+- Mentor a 100+ member organization spanning perception, planning, foundation models, simulation, and deployment.
+- Established dedicated world-model and reinforcement-learning groups to accelerate closed-loop learning and reduce real-world testing cost.
 
-- **北京科技大学** | 2009.9 - 2013.6  
-  本科，自动化专业
+**Site Manager, U.S. R&D Center**
+- Launched Li Auto's overseas research hub, covering local strategy, budgeting, and talent acquisition.
+- Connected Silicon Valley innovation with Beijing execution through cross-border program reviews and roadmap alignment.
 
-## 📚 学术成果 | Academic Achievements
+### Baidu Apollo
+**Apr 2016 - Mar 2021**  
+**Beijing, China**
 
-### 代表性论文 | Selected Publications
+**Algorithm Lead, L4 Prediction & Planning**
+- Led L4 prediction and pre-decision algorithms for robo-taxi pilots in complex urban scenes.
+- Shipped planning-and-control modules and onboard deep-learning components for autonomous fleets in Beijing and Guangzhou.
 
-1. **Drivevlm: The convergence of autonomous driving and large vision-language models** (2024)  
-   X Tian, J Gu, B Li, Y Liu, Y Wang, Z Zhao, **K Zhan**, P Jia, X Lang, H Zhao  
-   *arXiv preprint arXiv:2402.12289* | 引用: 107
+## Education
 
-2. **Street gaussians: Modeling dynamic urban scenes with gaussian splatting** (2024)  
-   Y Yan, H Lin, C Zhou, W Wang, H Sun, **K Zhan**, X Lang, X Zhou, S Peng  
-   *European Conference on Computer Vision, 156-173* | 引用: 102
+- **Beihang University**, M.S. in Automation, 2013 - 2016
+- **University of Science and Technology Beijing**, B.Eng. in Automation, 2009 - 2013
 
-3. **Planagent: A multi-modal large language agent for closed-loop vehicle motion planning** (2024)  
-   Y Zheng, Z Xing, Q Zhang, B Jin, P Li, Y Zheng, Z Xia, **K Zhan**, X Lang, D Zhao  
-   *arXiv preprint arXiv:2406.01587* | 引用: 12
+## Academic Impact
 
-4. **Tod3cap: Towards 3d dense captioning in outdoor scenes** (2024)  
-   B Jin, Y Zheng, P Li, W Li, Y Zheng, S Hu, X Liu, J Zhu, Z Yan, H Sun, **K Zhan**, X Lang, P Jia  
-   *European Conference on Computer Vision, 367-384* | 引用: 10
+Snapshot aligned with the homepage update on **2026-03-13**:
 
-5. **Unleashing generalization of end-to-end autonomous driving with controllable long video generation** (2024)  
-   E Ma, L Zhou, T Tang, Z Zhang, D Han, J Jiang, **K Zhan**, P Jia, X Lang, K Yu  
-   *arXiv preprint arXiv:2406.01349* | 引用: 9
+- Publications: **49**
+- Citations: **1335**
+- h-index: **15**
+- i10-index: **21**
 
-### 专利 | Patents
-- 申请中美专利八项
+### Selected Publications
 
-## 📊 学术影响力 | Academic Impact
+1. [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289) (2024) - 492 citations
+2. [Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting](https://link.springer.com/chapter/10.1007/978-3-031-72661-7_10) (2024) - 361 citations
+3. [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://openaccess.thecvf.com/content/CVPR2025/html/Ni_ReconDreamer_Crafting_World_Models_for_Driving_Scene_Reconstruction_via_Online_CVPR_2025_paper.html) (2025) - 71 citations
+4. [PlanAgent: A Multi-Modal Large Language Agent for Closed-Loop Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) (2024) - 49 citations
+5. [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](https://arxiv.org/abs/2406.01349) (2024) - 47 citations
 
-![Citation Metrics](https://img.shields.io/badge/Citations-465-blue)
-![h-index](https://img.shields.io/badge/h--index-9-green)
-![i10-index](https://img.shields.io/badge/i10--index-8-orange)
+For the full publication list, see [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) or [my homepage](https://zhankunliauto.github.io).
 
-## 📫 联系方式 | Contact
+## Patents & Service
 
-- 📧 Email: zk_1028@aliyun.com
-- 📱 WeChat: KevinZhan1990
+- 20 granted or issued patents: 18 in China and 2 in the United States
+- Reviewer for CVPR, ICCV, ECCV, NeurIPS, AAAI, IROS, TPAMI, T-ITS, and T-IV
+- Organizer of the CVPR 2023 Autonomous Driving Workshop
+
+## Contact
+
+- Email: [zk_1028@aliyun.com](mailto:zk_1028@aliyun.com)
+- WeChat: `KevinZhan1990`
+- Homepage: [zhankunliauto.github.io](https://zhankunliauto.github.io)
