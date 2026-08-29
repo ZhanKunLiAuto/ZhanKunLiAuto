@@ -1,89 +1,48 @@
-# 詹锟 | Kun Zhan
+# Kun Zhan · 詹锟
 
-**Head of Foundation Model Team at Li Auto**  
-**Foundation Models for Physical Intelligence**
+**Head of Foundation Models & Autonomous Driving at Li Auto**  
+*Building physical-world intelligence from research to road.*
 
-[Homepage](https://zhankunliauto.github.io) · [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) · [Email](mailto:zk_1028@aliyun.com) · WeChat: `KevinZhan1990` · Beijing, China
+[Homepage](https://zhankunliauto.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/kunzhan) · [X](https://x.com/KevinZhan18) · [Email](mailto:zk_1028@aliyun.com)  
+Beijing / San Jose
 
-## About Me
+I lead Li Auto's foundation-model and autonomous-driving work, spanning Vision–Language–Action models, agentic multimodal systems, world models, reinforcement learning, data infrastructure, and on-vehicle deployment.
 
-I lead Li Auto's MindVLA and MindGPT teams, covering behavior intelligence, cognitive intelligence, and production deployment across autonomous driving, smart cabin, and future embodied systems.
+My focus is connecting perception, reasoning, planning, and action—and carrying frontier research into reliable, production-scale physical AI systems.
 
-My work focuses on building foundation models that connect perception, reasoning, planning, and action, then shipping them with automotive-grade reliability. In parallel, I also serve as Site Manager for Li Auto's Silicon Valley R&D center, bridging research exploration in the U.S. with large-scale execution in Beijing.
+> **Mission:** Build physical-world AGI, starting with autonomous driving and expanding toward robotics and intelligent spaces.
 
-My long-term goal is to use autonomous driving as the practical starting point for embodied intelligence, and expand from vehicles toward robotics and broader real-world AI systems.
+## Current Focus
 
-## Key Highlights
+- **Vision–Language–Action** — unified perception, reasoning, planning, and control
+- **World Models & Reinforcement Learning** — generative simulation, closed-loop evaluation, and learning from physical feedback
+- **Model–System Co-design** — on-vehicle inference, model–chip–OS–controller integration, data engines, and reliable fleet-scale deployment
 
-- Lead Li Auto's foundation model organization across VLA, VLM, LLM, and world models.
-- Delivered multiple mass-production milestones, including Highway NoA (2022), City NoA (2023), End-to-End + VLM dual-system (2024), and the new VLA stack (2025).
-- Built Li Auto's U.S. research hub and aligned Silicon Valley exploration with Beijing headquarters execution.
+## Production & Research
 
-## Research Interests
+- Lead Li Auto's unified foundation-model and autonomous-driving agenda across MACH VLA, MACH Mind-Pro, MACH Mind-Edge, world models, reinforcement learning, and production deployment on MACH M100.
+- Helped evolve Li Auto's production driving stack from Highway NoA and City NoA through end-to-end, VLM-assisted, and VLA-based architectures.
+- Advance world models, closed-loop simulation, reinforcement learning, and model–system co-design for real-world deployment.
 
-- Autonomous Driving VLA models, end-to-end driving, planning, and decision making
-- Computer Vision, tracking, scene understanding, and BEV perception
-- 3D Vision and World Models for dynamic reconstruction, simulation, and RL
-- Multimodal LLMs for reasoning, planning, and driver-vehicle interaction
-- Agent Models with tool use, safety, and reliability
-- Robotics and embodied AI for real-world manipulation and navigation
+## Selected Research
 
-## Work Experience
+| Work | Venue | Focus |
+|---|---|---|
+| [FoMoVLA](https://arxiv.org/abs/2607.14739) | 2026 | Visual foresight and motion guidance for VLA models |
+| [LiAuto-GeoX](https://arxiv.org/abs/2606.05774) | 2026 | Efficient geometric foundation representations for driving |
+| [AD-R1](https://arxiv.org/abs/2511.20325) | CVPR 2026 | Closed-loop RL with impartial world models |
+| [WorldRFT](https://arxiv.org/abs/2512.19133) | AAAI 2026 | Reinforcement fine-tuning of latent world models for planning |
+| [ReconDreamer](https://openaccess.thecvf.com/content/CVPR2025/html/Ni_ReconDreamer_Crafting_World_Models_for_Driving_Scene_Reconstruction_via_Online_CVPR_2025_paper.html) | CVPR 2025 | World models for driving-scene reconstruction |
+| [Street Gaussians](https://link.springer.com/chapter/10.1007/978-3-031-73464-9_10) | ECCV 2024 | Dynamic urban reconstruction with Gaussian splatting |
+| [DriveVLM](https://arxiv.org/abs/2402.12289) | 2024 | Vision-language reasoning and planning for autonomous driving |
 
-### Li Auto
-**Apr 2021 - Present**  
-**Beijing / San Jose**
+→ [Explore the full publication list](https://zhankunliauto.github.io/publications/)
 
-**Head of Foundation Model Team**
-- Lead VLA foundation-model R&D and coordinate integration with Li Auto's self-developed autonomous-driving chips.
-- Built Li Auto's autonomous-driving stack from E2E to VLM to VLA architectures running on hundreds of thousands of vehicles.
-- Mentor a 100+ member organization spanning perception, planning, foundation models, simulation, and deployment.
-- Established dedicated world-model and reinforcement-learning groups to accelerate closed-loop learning and reduce real-world testing cost.
+## Background
 
-**Site Manager, U.S. R&D Center**
-- Launched Li Auto's overseas research hub, covering local strategy, budgeting, and talent acquisition.
-- Connected Silicon Valley innovation with Beijing execution through cross-border program reviews and roadmap alignment.
+- **Li Auto** · Head of Foundation Models & Autonomous Driving; U.S. R&D Center Lead · 2021–present
+- **Baidu Apollo** · Algorithm Lead, L4 Prediction & Planning · 2016–2021
+- **Beihang University** · M.S. in Navigation, Guidance and Control
+- **University of Science and Technology Beijing** · B.Eng. in Automation
 
-### Baidu Apollo
-**Apr 2016 - Mar 2021**  
-**Beijing, China**
-
-**Algorithm Lead, L4 Prediction & Planning**
-- Led L4 prediction and pre-decision algorithms for robo-taxi pilots in complex urban scenes.
-- Shipped planning-and-control modules and onboard deep-learning components for autonomous fleets in Beijing and Guangzhou.
-
-## Education
-
-- **Beihang University**, M.S. in Automation, 2013 - 2016
-- **University of Science and Technology Beijing**, B.Eng. in Automation, 2009 - 2013
-
-## Academic Impact
-
-Snapshot aligned with the homepage update on **2026-03-13**:
-
-- Publications: **49**
-- Citations: **1335**
-- h-index: **15**
-- i10-index: **21**
-
-### Selected Publications
-
-1. [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289) (2024) - 492 citations
-2. [Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting](https://link.springer.com/chapter/10.1007/978-3-031-72661-7_10) (2024) - 361 citations
-3. [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://openaccess.thecvf.com/content/CVPR2025/html/Ni_ReconDreamer_Crafting_World_Models_for_Driving_Scene_Reconstruction_via_Online_CVPR_2025_paper.html) (2025) - 71 citations
-4. [PlanAgent: A Multi-Modal Large Language Agent for Closed-Loop Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) (2024) - 49 citations
-5. [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](https://arxiv.org/abs/2406.01349) (2024) - 47 citations
-
-For the full publication list, see [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) or [my homepage](https://zhankunliauto.github.io).
-
-## Patents & Service
-
-- 20 granted or issued patents: 18 in China and 2 in the United States
-- Reviewer for CVPR, ICCV, ECCV, NeurIPS, AAAI, IROS, TPAMI, T-ITS, and T-IV
-- Organizer of the CVPR 2023 Autonomous Driving Workshop
-
-## Contact
-
-- Email: [zk_1028@aliyun.com](mailto:zk_1028@aliyun.com)
-- WeChat: `KevinZhan1990`
-- Homepage: [zhankunliauto.github.io](https://zhankunliauto.github.io)
+For research conversations, speaking, advisory work, or collaboration, reach me at [zk_1028@aliyun.com](mailto:zk_1028@aliyun.com).
