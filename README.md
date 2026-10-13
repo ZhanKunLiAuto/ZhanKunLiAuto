@@ -3,7 +3,7 @@
 **Head of Foundation Models & Autonomous Driving at Li Auto**  
 *Building physical-world intelligence from research to road.*
 
-[Homepage](https://zhankunliauto.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/kunzhan) · [X](https://x.com/KevinZhan18) · [Email](mailto:zk_1028@aliyun.com)  
+[Homepage](https://zhankunliauto.github.io/) · [What I’m Reading](https://paper-reading-for-kun.kunzhan.chatgpt.site/) · [Google Scholar](https://scholar.google.com/citations?user=1J061HIAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/kunzhan) · [X](https://x.com/KevinZhan18) · [Email](mailto:zk_1028@aliyun.com)  
 Beijing / San Jose
 
 I lead Li Auto's foundation-model and autonomous-driving work, spanning Vision–Language–Action models, agentic multimodal systems, world models, reinforcement learning, data infrastructure, and on-vehicle deployment.
@@ -18,11 +18,16 @@ My focus is connecting perception, reasoning, planning, and action—and carryin
 - **World Models & Reinforcement Learning** — generative simulation, closed-loop evaluation, and learning from physical feedback
 - **Model–System Co-design** — on-vehicle inference, model–chip–OS–controller integration, data engines, and reliable fleet-scale deployment
 
-## Production & Research
+## From Research to Production
 
-- Lead Li Auto's unified foundation-model and autonomous-driving agenda across MACH VLA, MACH Mind-Pro, MACH Mind-Edge, world models, reinforcement learning, and production deployment on MACH M100.
-- Helped evolve Li Auto's production driving stack from Highway NoA and City NoA through end-to-end, VLM-assisted, and VLA-based architectures.
-- Advance world models, closed-loop simulation, reinforcement learning, and model–system co-design for real-world deployment.
+I lead Li Auto's unified foundation-model and autonomous-driving agenda across Mach VLA, Mach Mind, world models, reinforcement learning, infrastructure, and deployment.
+
+- **Sep 2026 · Mach VLA 2.0 on Orin & Thor** — worked with the team to adapt the model for existing AD Max vehicles; rollout began with OTA 8.6 on September 10.
+- **May 2026 · Mach VLA 2.0 on Mach M100** — led production delivery for the Li L9 Livis launch, coordinating models, proprietary chips, compilers, and the operating system.
+- **Aug 2025 · VLA 1.0 on Li i8** — brought spatial understanding, language reasoning, and action generation into a production driving model.
+- **Oct 2024 · E2E + VLM** — delivered the dual-system driving architecture through OTA 6.4.
+
+→ [More milestones and updates](https://zhankunliauto.github.io/#milestones)
 
 ## Selected Research
 
@@ -37,6 +42,12 @@ My focus is connecting perception, reasoning, planning, and action—and carryin
 | [DriveVLM](https://arxiv.org/abs/2402.12289) | 2024 | Vision-language reasoning and planning for autonomous driving |
 
 → [Explore the full publication list](https://zhankunliauto.github.io/publications/)
+
+## Principles
+
+Go deep on a few important problems. Deliver on commitments while making room for exploration. Treat efficiency as innovation, learn from feedback, and use AI to improve how we build.
+
+→ [Eight principles I hold myself to](https://zhankunliauto.github.io/#principles)
 
 ## Background
 
